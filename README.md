@@ -1,1 +1,1 @@
-This program is a detective game implemented using GUI elements in Java. 
+This program is a Sherlock Holmes-themed detective game implemented using GUI elements in Java. 
